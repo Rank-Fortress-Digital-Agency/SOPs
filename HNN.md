@@ -1,6 +1,6 @@
 # 📰 Holly's News Network
 
-## Contents
+### Contents
 
 - 📄 [Importing the Content](#-importing-the-content)
 - 📌 [GMB Image](#-gmb-image)
@@ -15,7 +15,7 @@
 
 <p>&nbsp;</p>
 
-## 📄 Importing the Content
+### 📄 Importing the Content
 
 1. Go to the [Holly's News Network](https://news-network.seotech.dev/) and login with your credentials.
 
@@ -33,7 +33,7 @@
 
 <p>&nbsp;</p>
 
-## 📌 GMB Image
+### 📌 GMB Image
 
 6. Go to your GMB Profile and go to your Posts and find an image that's most relevant to your article.
 
@@ -47,7 +47,7 @@
 
 <p>&nbsp;</p>
 
-## 🌎 Map Embed
+### 🌎 Map Embed
 
 7. Go back to your GMB Profile and hit the `Share` button. <p>![GMB Share Button](https://i.ibb.co/19ZnVky/Group-69.png)</p>
 
@@ -61,7 +61,7 @@
 
 <p>&nbsp;</p>
 
-## 📟 GMB Site Embed
+### 📟 GMB Site Embed
 
 10. Go to the back-end of your GMB and go hit the `Website` tab. <p>![Website Tab](https://i.ibb.co/DVBM3yL/Group-72.png)</p>
 
@@ -80,7 +80,7 @@
 
 <p>&nbsp;</p>
 
-## 🔗 RSS Feed Embed
+### 🔗 RSS Feed Embed
 
 14. Go to the back-end of your GMB and go hit the `Website` tab. <p>![Website Tab](https://i.ibb.co/DVBM3yL/Group-72.png)</p>
 
@@ -104,7 +104,7 @@
 
 <p>&nbsp;</p>
 
-## 🚀 Posting the Article
+### 🚀 Posting the Article
 
 22. Hit the `Create Article` button.
 
