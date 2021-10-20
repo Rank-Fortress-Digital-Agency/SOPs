@@ -1,5 +1,20 @@
 # 📰 Holly's News Network
 
+## Contents
+
+- 📄 [Importing the Content](#-importing-the-content)
+- 📌 [GMB Image](#-gmb-image)
+- 🌎 [Map Embed](#-map-embed)
+- 📟 [GMB Site Embed](#-gmb-site-embed)
+- 🔗 [RSS Feed Embed](#-rss-feed-embed)
+- 🚀 [Posting the Article](#-posting-the-article)
+
+<p>&nbsp;</p>
+
+---
+
+<p>&nbsp;</p>
+
 ## 📄 Importing the Content
 
 1. Go to the [Holly's News Network](https://news-network.seotech.dev/) and login with your credentials.
@@ -14,13 +29,21 @@
 
 <p>&nbsp;</p>
 
-## 📍 GMB Image
+---
+
+<p>&nbsp;</p>
+
+## 📌 GMB Image
 
 6. Go to your GMB Profile and go to your Posts and find an image that's most relevant to your article.
 
 7. Righ-click the image and hit `Copy Image`. <p>![Copy GMB Image](https://i.ibb.co/N9C39RZ/image-16.png)</p>
 
 8. Go back to HNN and paste that image somewhere in your `Article Body`.
+
+<p>&nbsp;</p>
+
+---
 
 <p>&nbsp;</p>
 
@@ -31,6 +54,10 @@
 8. After that, a share panel pops out. Go hit the `Embed a map` tab and click `COPY HTML`. <p>![GMB Embed tab](https://i.ibb.co/gSYLz7N/Group-70.png)</p>
 
 9. Go back to your HNN and move your cursor to where you want to embed your Google Map. Hit the `Insert/Edit Media` tool. Click the `Embed` tab, paste your copied HTML, and hit `Save`. <p>![Insert Media](https://i.ibb.co/ph6WyWR/Group-71.png)</p>
+
+<p>&nbsp;</p>
+
+---
 
 <p>&nbsp;</p>
 
@@ -46,6 +73,10 @@
     ```
 
 13. Go back to HNN, move your cursor to the bottom of the article, and hit the `Insert/Edit Media` tool. Click the `Embed` tab, paste your code, and hit `Save`. <p>![Insert Media](https://i.ibb.co/ph6WyWR/Group-71.png)</p>
+
+<p>&nbsp;</p>
+
+---
 
 <p>&nbsp;</p>
 
@@ -69,6 +100,10 @@
 
 <p>&nbsp;</p>
 
+---
+
+<p>&nbsp;</p>
+
 ## 🚀 Posting the Article
 
 22. Hit the `Create Article` button.
@@ -85,6 +120,10 @@
 
 28. Clicking on the `redirect icon` will redirect you to the actual article post on that particular news website.
 
+<p>&nbsp;</p>
+
 ---
+
+<p>&nbsp;</p>
 
 Powered by © [RankFortress](https://rankfortress.com/) 2021 🤟.
