@@ -126,4 +126,4 @@
 
 <p>&nbsp;</p>
 
-Powered by © [RankFortress](https://rankfortress.com/) 2021 🤟.
+Made by © [RankFortress](https://rankfortress.com/) 2021 🤟.
