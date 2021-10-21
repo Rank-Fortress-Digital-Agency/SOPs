@@ -1,4 +1,6 @@
-# 📰 Holly's News Network
+![Cover](https://i.ibb.co/JssDcHH/Facebook-Cover.jpg)
+
+# 📰 Holly's News Network by Rank Fortress
 
 ## Contents
 
